@@ -1,0 +1,10 @@
+E:\projects\school\MonoNode\MonoNode\bin\Debug\netcoreapp3.1\MonoNode.deps.json
+E:\projects\school\MonoNode\MonoNode\bin\Debug\netcoreapp3.1\MonoNode.dll
+E:\projects\school\MonoNode\MonoNode\bin\Debug\netcoreapp3.1\MonoNode.pdb
+E:\projects\school\MonoNode\MonoNode\obj\Debug\netcoreapp3.1\MonoNode.csproj.AssemblyReference.cache
+E:\projects\school\MonoNode\MonoNode\obj\Debug\netcoreapp3.1\MonoNode.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\school\MonoNode\MonoNode\obj\Debug\netcoreapp3.1\MonoNode.AssemblyInfoInputs.cache
+E:\projects\school\MonoNode\MonoNode\obj\Debug\netcoreapp3.1\MonoNode.AssemblyInfo.cs
+E:\projects\school\MonoNode\MonoNode\obj\Debug\netcoreapp3.1\MonoNode.csproj.CoreCompileInputs.cache
+E:\projects\school\MonoNode\MonoNode\obj\Debug\netcoreapp3.1\MonoNode.dll
+E:\projects\school\MonoNode\MonoNode\obj\Debug\netcoreapp3.1\MonoNode.pdb
